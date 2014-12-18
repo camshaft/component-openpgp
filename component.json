@@ -1,0 +1,9 @@
+{
+  "name": "openpgp",
+  "version": "0.9.0",
+  "description": "openpgp with component.json",
+  "scripts": [
+    "index.js"
+  ],
+  "repo": "camshaft/component-angular"
+}
